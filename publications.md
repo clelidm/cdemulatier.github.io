@@ -5,7 +5,6 @@ permalink: https://clelidm.github.io/cdemulatier.github.io/publications
 # Publications
 <ul>
 <ul>
-<ul>
 <li><strong> A formal framework for higher-order spin models via hypergraphs, polymatroids, and the Tutte polynomial</strong></li> K. Berrekkal, J. A. Ellis-Monaghan, M. Moody, C. de Mulatier
 <a href="" target="_blank" rel="noopener">  arXiv: </a> &nbsp;&nbsp;(2026)
 <li><strong>Modeling Discrete Data with High-Order Vector Potts Models</strong></li> A. De Clercq, M. Moody, C.de Mulatier
@@ -56,7 +55,6 @@ E. Dumonteil, F. Malvagi, A. Zoia, A. Mazzolo, D. Artusio, C. Dieudonné, C. De 
  	<li><strong>Asymmetric Lévy flights in the presence of absorbing boundaries</strong>
 C. de Mulatier, A. Rosso and G. Schehr,
 <a href="http://m.iopscience.iop.org/1742-5468/2013/10/P10006" target="_blank" rel="noopener">J. Stat. Mech. (2013) P10006</a> &nbsp;&nbsp;(Oct. 2013)</li>
-</ul>
 </ul>
 </ul>
 <span style="font-size: medium"><strong>Packages</strong></span>
