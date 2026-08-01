@@ -1,6 +1,6 @@
 layout: page
-title: "complex-systems"
-permalink: https://clelidm.github.io/cdemulatier.github.io/complex-systems
+title: "complexsystems"
+permalink: https://clelidm.github.io/cdemulatier.github.io/complexsystems
 
 # Complex Systems
 
