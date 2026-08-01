@@ -18,9 +18,9 @@
 
 <span style="font-size: medium"><strong> Contact information </strong></span>
 <p style="padding-left: 30px">
-<strong>Email:</strong>     c.m.c.demulatier (at) uva.nl
+<strong>Email:</strong>     c.m.c.demulatier (at) uva.nl <br>
   
-<strong>Address:</strong>     Science Park 904, 1098 XH Amsterdam
+<strong>Address:</strong>     Science Park 904, 1098 XH Amsterdam <br>
 
 <strong>Office:</strong>     C4.277
 </p>
