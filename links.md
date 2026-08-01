@@ -7,7 +7,7 @@ permalink: https://clelidm.github.io/cdemulatier.github.io/links
 &nbsp;
 <span style="font-size: medium"><strong>For students:</strong></span>
 <ul>
-	<li> <a href="https://lptms.u-psud.fr/clelia-de-mulatier/links/interested-in-complex-systems/"> Interested in complex systems?</a> </li>
+	<li> <a href="https://clelidm.github.io/cdemulatier.github.io/complexsystems"> Interested in complex systems?</a> </li>
 </ul>
 
 <span style="font-size: medium"><strong>Other useful tools</strong></span>
