@@ -11,7 +11,7 @@
 
 <p style="padding: 0px 22px 0px"><strong>2017 - 2020:</strong>   Postdoctoral researcher at the University of Pennsylvania (UPenn) in the <a href="https://www.physics.upenn.edu" target="_blank" rel="noopener">Department of Physics and Astronomy</a> and in the <a href="https://cni.upenn.edu">Computational Neuroscience Initiative (CNI)</a>.
   
-<strong>2015 - 2017:</strong>   Postdoctoral fellow of the Abdus Salam International Centre for Theoretical Physics (ICTP) in the <a href="https://www.ictp.it/research/qls.aspx" target="_blank" rel="noopener">Quantitative Life Sciences group</a>.
+<strong>2015 - 2017:</strong>   Postdoctoral fellow of the Abdus Salam International Centre for Theoretical Physics (ICTP) in the <a href="https://www.ictp.it/research/qls.aspx" target="_blank" rel="noopener">Quantitative Life Sciences group</a>.<br>
 
 <strong>2012 - 2015:</strong>   PhD in statistical physics at Université Paris Sud (in the <a href="http://lptms.u-psud.fr/en" target="_blank" rel="noopener">Laboratoire de Physique Théorique et Modèles Statistiques</a>) and at the <a href="https://www.cea.fr" target="_blank" rel="noopener">CEA Saclay</a>, under the supervision of Alberto Rosso (Paris Sud), Cheikh Diop and Andrea Zoia (CEA).
 </p>
