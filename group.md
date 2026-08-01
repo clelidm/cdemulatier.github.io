@@ -30,7 +30,7 @@ permalink: https://clelidm.github.io/cdemulatier.github.io/group
 
 <strong>Master students:</strong>
 <ul>
-<strong>-- Physics:</strong>  Elfatih Idris
+<strong> - Physics:</strong>  Elfatih Idris
 <strong>-- Physics of complex systems:</strong> Jorge Gonzalez Larragoiti (collaboration with Linda Douw)
 <strong>-- Mathematics:</strong>  Khaled Tamimy
 <strong>-- Computational Science:</strong> Job Marcelis (collaboration with Greg Stephens), Wessel Beumer </ul>
@@ -38,9 +38,10 @@ permalink: https://clelidm.github.io/cdemulatier.github.io/group
 <ul>
 <strong>Master students graduated:</strong>
 <ul>
-<strong>-- Theoretical Physics:</strong>  Jair Lenssen, Karel Geraedts, Sietse Verbeek, Matteo Sokratis Lioumis
-<strong>-- Computational Science:</strong>  Sam Kamphof, Marije Dekker, Karim Semin, Maria Iosif, Aaron De Clercq, Paul Hosek, Lotte Wolfenter, &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Mylène van der Maas, Karel Geraedts, Jonas Argelo
-<strong>-- Theoretical physics and Neuroscience:</strong> Martijn Klop (Utrecht University) </ul>
+ - <strong>Theoretical Physics:</strong>  Jair Lenssen, Karel Geraedts, Sietse Verbeek, Matteo Sokratis Lioumis <br>
+ - <strong>Computational Science:</strong>  Sam Kamphof, Marije Dekker, Karim Semin, Maria Iosif, Aaron De Clercq, Paul Hosek, Lotte Wolfenter, &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Mylène van der Maas, Karel Geraedts, Jonas Argelo <br>
+ - <strong>Theoretical physics and Neuroscience:</strong> Martijn Klop (Utrecht University) 
+</ul>
 </ul>
 &nbsp;
 <span style="font-size: medium"><strong>Open positions</strong></span>
