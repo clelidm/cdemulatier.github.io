@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Clélia de Mulatier
 description: 
+sidebar:
+ - publications
