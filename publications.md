@@ -6,7 +6,7 @@ permalink: https://clelidm.github.io/cdemulatier.github.io/publications
 <ul>
 <ul>
 <ul>
-<li><strong>A formal framework for higher-order spin models via hypergraphs, polymatroids, and the Tutte polynomial</strong></li> K. Berrekkal, J. A. Ellis-Monaghan, M. Moody, C. de Mulatier
+<li><strong> A formal framework for higher-order spin models via hypergraphs, polymatroids, and the Tutte polynomial</strong></li> K. Berrekkal, J. A. Ellis-Monaghan, M. Moody, C. de Mulatier
 <a href="" target="_blank" rel="noopener">  arXiv: </a> &nbsp;&nbsp;(2026)
 <li><strong>Modeling Discrete Data with High-Order Vector Potts Models</strong></li> A. De Clercq, M. Moody, C.de Mulatier
 <a href="https://arxiv.org/abs/2606.03429" target="_blank" rel="noopener">  arXiv:2606.03429 </a> &nbsp;&nbsp;(2026)
